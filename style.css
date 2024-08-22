@@ -1,0 +1,13 @@
+body {
+    background-color: #F2B7C6;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.navbar.bg-body-tertiary {
+    background-color: #CC76A1 !important;
+}
